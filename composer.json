@@ -1,5 +1,5 @@
 {
-    "name": "elipzis/laravel-cacheable-model",
+    "name": "jakkzing-dev/laravel-cacheable-model",
     "description": "Automatic query-based model cache for your Laravel app",
     "keywords": [
         "elipZis",
